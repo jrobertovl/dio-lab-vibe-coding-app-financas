@@ -158,3 +158,26 @@ Promove acessibilidade, inclusão e experiência fluida para todos.
 ## 💬 Conclusão
 
 Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
+
+## 🧑‍💻 Autor
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/79292597?s=96&v=4"
+    />
+    <p>&nbsp&nbsp&nbspJosé Roberto Vasconcellos Lopes<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/jrobertovl">GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/jrobertovl">LinkedIn</a>&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/jrobertovl/">Instagram</a>&nbsp;|&nbsp;
+    <a href="https://api.whatsapp.com/send?phone=5591982003052">WhatsApp</a>
+    </p>
+</p>
+<br/><br/>
+<p>
+
+---
+
+⌨️ com 💜 por [José Roberto Vasconcellos Lopes](https://github.com/jrobertovl)
