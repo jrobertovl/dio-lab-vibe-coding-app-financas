@@ -42,9 +42,17 @@ Pessoas que desejam começar a organizar suas finanças de forma prática e aces
 
 Interações com o Lovable:
 > Crie um App de finanças pessoais com base no seguinte PRD (Documento de Requisitos do Produto): {PRD}
+> 
 > Lembrando que as metas criadas devem aparecer no componente e não esqueça de criar as telas de relatórios com gráficos e extrato detalhado com as transações.
+> 
 > Não tem tela de login para acesso ao app?
+> 
 > Sim (Ainda não tem login, porque os dados ficam salvos só neste navegador. Quer que eu adicione?)
+> 
+> Informei que recebi R$5.000,00 no Itaú, mas não gerou a conta no Itaú e também a transferência para Carteira deveria atualizar o extrato e o saldo do banco, verifique!
+> 
+> As transferências entre contas não devem alterar o valor de entradas e saídas, verifique!
+
 
 Resultado final no Lovable: https://happy-money-hues.lovable.app/
 <img width="1295" height="872" alt="WhatsApp Image 2026-10-02 at 08 16 10" src="https://github.com/user-attachments/assets/7b655afa-d88f-407a-b6d6-a82447a15380" />
