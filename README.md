@@ -47,11 +47,14 @@ Interações com o Lovable:
 > Sim (Ainda não tem login, porque os dados ficam salvos só neste navegador. Quer que eu adicione?)
 
 Resultado final no Lovable: https://happy-money-hues.lovable.app/
-<img width="1313" height="873" alt="WhatsApp Image 2026-10-01 at 14 49 09" src="https://github.com/user-attachments/assets/5b88afb7-9cef-4b78-8514-1a9d8480081f" />
+<img width="1295" height="872" alt="WhatsApp Image 2026-10-02 at 08 16 10" src="https://github.com/user-attachments/assets/7b655afa-d88f-407a-b6d6-a82447a15380" />
+<img width="1310" height="873" alt="image" src="https://github.com/user-attachments/assets/705302e2-17d6-4ab2-bca3-7b11dfeeb479" />
 <img width="1311" height="873" alt="WhatsApp Image 2026-10-01 at 14 49 09 (1)" src="https://github.com/user-attachments/assets/3955b256-e705-411b-aa8f-027cf86012ed" />
-<img width="1311" height="869" alt="WhatsApp Image 2026-10-01 at 14 49 09 (2)" src="https://github.com/user-attachments/assets/6fb7f373-9b14-41a6-967d-3125e62fe7f8" />
-<img width="1312" height="869" alt="WhatsApp Image 2026-10-01 at 14 49 09 (3)" src="https://github.com/user-attachments/assets/da9c8ab7-2d52-48ea-a4ee-640e5ed1ba99" />
-<img width="1315" height="872" alt="WhatsApp Image 2026-10-01 at 14 49 09 (4)" src="https://github.com/user-attachments/assets/38284bb6-dbe7-445e-a229-f3f64a34dbf0" />
+<img width="1309" height="870" alt="image" src="https://github.com/user-attachments/assets/f5299e35-a8c2-42e7-b532-fe48bcba3e91" />
+<img width="1310" height="867" alt="WhatsApp Image 2026-10-02 at 08 31 01" src="https://github.com/user-attachments/assets/71eedf0f-00c1-4301-abb2-dc669c2fea9c" />
+<img width="1309" height="871" alt="WhatsApp Image 2026-10-02 at 08 31 01 (1)" src="https://github.com/user-attachments/assets/18f5eabf-216a-4263-a979-d05a6dbe0600" />
+
+
 
  # Trocado — Suas finanças numa conversa
 
@@ -147,7 +150,7 @@ Promove acessibilidade, inclusão e experiência fluida para todos.
 ## Reflexão
  
   ### O que funcionou bem?
-  A aula do Venilton da Dio e o refinamento do PRD previamente feito no Copilot Web ajudou bastante, pois os créditos do Lovable acabaram em apenas 2 interações.
+  A aula do Venilton da Dio e o refinamento do PRD previamente feito no Copilot Web ajudou bastante, pois os créditos do Lovable acabaram em apenas 2 interações. No outro dia com os créditos renovados posso continuar a interação para a melhoria do App.
   
   ### O que não funcionou como o esperado?
   A tela de login não foi gerada de primeira e esperava ter mais interações gratuitas, mas o pouco que tive, além das aulas na DIO já foram de grande valia para aprender sobre Vibe Coding.
