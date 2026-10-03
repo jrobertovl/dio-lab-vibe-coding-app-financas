@@ -52,17 +52,19 @@ Interações com o Lovable:
 > Informei que recebi R$5.000,00 no Itaú, mas não gerou a conta no Itaú e também a transferência para Carteira deveria atualizar o extrato e o saldo do banco, verifique!
 > 
 > As transferências entre contas não devem alterar o valor de entradas e saídas, verifique!
+>
+> Outra pergunta, vejo que temos 30 interações diárias. Seria possível aumentar, tipo 60 interações, caso negativo, qual seria o máximo possível?
+>
+> Pronto! Agora o chat é ilimitado, no lugar da barra de progresso antiga, o app mostra apenas um contador (Pode deixar ilimitado? Se sim, pode fazer!)
 
 
 Resultado final no Lovable: https://happy-money-hues.lovable.app/
-<img width="1295" height="872" alt="WhatsApp Image 2026-10-02 at 08 16 10" src="https://github.com/user-attachments/assets/7b655afa-d88f-407a-b6d6-a82447a15380" />
-<img width="1310" height="873" alt="image" src="https://github.com/user-attachments/assets/705302e2-17d6-4ab2-bca3-7b11dfeeb479" />
-<img width="1311" height="873" alt="WhatsApp Image 2026-10-01 at 14 49 09 (1)" src="https://github.com/user-attachments/assets/3955b256-e705-411b-aa8f-027cf86012ed" />
-<img width="1309" height="870" alt="image" src="https://github.com/user-attachments/assets/f5299e35-a8c2-42e7-b532-fe48bcba3e91" />
-<img width="1310" height="867" alt="WhatsApp Image 2026-10-02 at 08 31 01" src="https://github.com/user-attachments/assets/71eedf0f-00c1-4301-abb2-dc669c2fea9c" />
-<img width="1309" height="871" alt="WhatsApp Image 2026-10-02 at 08 31 01 (1)" src="https://github.com/user-attachments/assets/18f5eabf-216a-4263-a979-d05a6dbe0600" />
-
-
+<img width="1307" height="868" alt="image" src="https://github.com/user-attachments/assets/9bea8d0a-7548-4549-bdc6-e280da7191a1" />
+<img width="1308" height="865" alt="image" src="https://github.com/user-attachments/assets/5d42f513-a61e-412a-bac8-efb402bc712c" />
+<img width="1310" height="868" alt="image" src="https://github.com/user-attachments/assets/80ce095a-dba0-4ae0-8ba8-ea1b69dc2241" />
+<img width="1313" height="868" alt="image" src="https://github.com/user-attachments/assets/7ecaba71-410f-401b-abe4-c16d80dccf02" />
+<img width="1312" height="872" alt="image" src="https://github.com/user-attachments/assets/0556a842-f6f7-4194-9c4b-7a4ccb8d4c53" />
+<img width="1308" height="865" alt="image" src="https://github.com/user-attachments/assets/bee43b28-bf94-46f2-a711-4c3ba5add4f4" />
 
  # Trocado — Suas finanças numa conversa
 
